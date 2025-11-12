@@ -1,0 +1,42 @@
+# Models and checkpoints
+*.h5
+*.hdf5
+*.ckpt
+*.pt
+*.pth
+
+# Archives / large files
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Data
+/data/
+*.csv
+*.npy
+
+# virtualenv
+venv/
+env/
+.venv/
+
+# Keras / TF cache
+.keras/
